@@ -22,7 +22,7 @@ The backend is built using Node.js, Express, and TypeScript. It includes the fol
 - **app.ts**: The entry point of the application, initializing the Express app and connecting to the MongoDB database.
 - **controllers/index.ts**: Exports various controller functions for handling business logic.
 - **routes/index.ts**: Defines the API endpoints and links them to the appropriate controller functions.
-- **models/index.ts**: Exports Mongoose models for User and Medication schemas..
+- **models/index.ts**: Exports Mongoose models for User and Medication schemas.
 - **types/index.ts**: Exports TypeScript interfaces for defining types used throughout the backend.
 
 ## Setup Instructions
