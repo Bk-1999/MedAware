@@ -1,6 +1,6 @@
 # MedAware+
 
-MedAware+ is a web application designed to help users manage their medications effectively. It consists of a React frontend and a Node.js + Express backend, providing a seamless experience for users to track their medication schedules, dosages, and more.
+MedAware+ is a web application designed to help users manage their medications effectively. It consists of a React frontend and a Node.js + Express backend, providing a seamless experience for users to track their medication schedules, dosages, and more..
 
 ## Project Structure
 
